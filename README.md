@@ -1,8 +1,8 @@
-# weatherApp
+# demoApp
 
 The Rick & Morty Application for Phones
 
-![Record](./src/assets/gif.gif)
+![Record](./src/assets/app.gif)
 
 # Made With
 
